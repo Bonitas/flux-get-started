@@ -1,0 +1,1 @@
+{"jobID":"24b2edf2-27fc-3413-071d-a09d84e5dca4","spec":{"type":"policy","cause":{"Message":"","User":"Waldemar Kindler \u003cwaldemar.kindler@lidl.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:3.2.*"},"remove":{}}}},"result":null}
