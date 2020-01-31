@@ -1,0 +1,1 @@
+{"jobID":"611b16b9-4d7a-3de7-fb62-50d9452b6c47","spec":{"type":"policy","cause":{"Message":"1.4.2 does not work for us","User":"Waldemar Kindler \u003cwaldemar.kindler@lidl.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{},"remove":{"locked":"true","locked_msg":"true","locked_user":"true"}}}},"result":null}
