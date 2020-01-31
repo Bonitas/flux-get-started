@@ -59,7 +59,7 @@ spec:
         - name: PODINFO_UI_COLOR
           value: "#34577c"
         - name: PODINFO_UI_MESSAGE
-          value; "Hier steht eine testnachricht"
+          value: "Hier steht eine testnachricht"
         livenessProbe:
           httpGet:
             path: /healthz
